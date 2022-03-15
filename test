@@ -1,0 +1,1 @@
+clear | ls; ls -l; ls -la | cat shell.c | grep thread shell.c
